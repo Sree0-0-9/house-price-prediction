@@ -32,7 +32,3 @@ Accurate house price prediction supports property valuation, lending decisions, 
 │   └── house_price_prediction.ipynb
 └── README.md
 ```
-
-## Portfolio Note
-
-This is a public portfolio version prepared from academic analytics work. Student IDs and course-submission wording have been removed.
