@@ -42,7 +42,3 @@ Use regression models to support valuation and risk review, but pair model estim
 │   └── house_price_prediction.ipynb
 └── README.md
 ```
-
-## Portfolio Note
-
-This is a public portfolio version prepared from academic analytics work. Student IDs and course-submission wording have been removed.
