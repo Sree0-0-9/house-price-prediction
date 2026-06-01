@@ -14,6 +14,16 @@ Accurate house price prediction supports property valuation, lending decisions, 
 - Hyperparameter tuning using `GridSearchCV`
 - Prediction visualisation and feature-importance interpretation
 
+## Key Findings
+
+- Data quality and feature preparation are central to reliable house price prediction.
+- Cross-validation and tuning provide a more robust model selection process than relying on a single train/test split.
+- Feature-importance review helps translate model output into property and lending-relevant interpretation.
+
+## Business Recommendation
+
+Use regression models to support valuation and risk review, but pair model estimates with market context, property-specific judgement, and data-quality checks before using predictions in lending or investment decisions.
+
 ## Tools Used
 
 - Python
@@ -32,3 +42,7 @@ Accurate house price prediction supports property valuation, lending decisions, 
 │   └── house_price_prediction.ipynb
 └── README.md
 ```
+
+## Portfolio Note
+
+This is a public portfolio version prepared from academic analytics work. Student IDs and course-submission wording have been removed.
