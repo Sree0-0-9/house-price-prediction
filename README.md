@@ -44,7 +44,3 @@ Use regression models to support valuation and risk review, but pair model estim
 ## How To Open
 
 Open `house_price_prediction.ipynb` in Jupyter Notebook, JupyterLab, VS Code, or GitHub's notebook preview. Keep `house_prices.csv` in the same folder as the notebook so the data-loading steps work correctly.
-
-## Portfolio Note
-
-This is a public portfolio version prepared from academic analytics work. Student IDs and course-submission wording have been removed.
